@@ -33,7 +33,7 @@ Gross Price | Net Sales | Net Invoice Sales | Pre-Invoice Deductions | Post-Invo
 
 Feel free to explore the interactive dashboard via the link below:
 
-**Project Link:** [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWQ1ZGZjNmUtZDljOS00ODBhLTgxYmEtZjMzMGI5ZjVjMWEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**Project Link:** [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWQ1ZGZjNmUtZDljOS00ODBhLTgxYmEtZjMzMGI5ZjVjMWEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection9275feb00c2e013d8906)
 
 
 
